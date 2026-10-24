@@ -1,0 +1,5 @@
+streamlit>=1.46
+psycopg2-binary
+bcrypt
+requests
+python-dotenv
